@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.metamx:loglady_2.11:1.1.0-mmx">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/metamx/loglady_2.11/1.1.0-mmx/loglady_2.11-1.1.0-mmx.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/metamx/loglady_2.11/1.1.0-mmx/loglady_2.11-1.1.0-mmx-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/metamx/loglady_2.11/1.1.0-mmx/loglady_2.11-1.1.0-mmx-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

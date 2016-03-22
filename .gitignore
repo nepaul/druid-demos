@@ -1,0 +1,51 @@
+
+# Created by https://www.gitignore.io/api/maven,intellij
+
+### Maven ###
+IngestData/target/
+IngestData/pom.xml.tag
+IngestData/pom.xml.releaseBackup
+IngestData/pom.xml.versionsBackup
+IngestData/pom.xml.next
+IngestData/release.properties
+IngestData/dependency-reduced-pom.xml
+IngestData/buildNumber.properties
+IngestData/.mvn/timing.properties
+
+
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+IngestData/.idea/workspace.xml
+IngestData/.idea/tasks.xml
+IngestData/.idea/dictionaries
+IngestData/.idea/vcs.xml
+IngestData/.idea/jsLibraryMappings.xml
+
+# Sensitive or high-churn files:
+IngestData/.idea/dataSources.ids
+IngestData/.idea/dataSources.xml
+IngestData/.idea/dataSources.local.xml
+IngestData/.idea/sqlDataSources.xml
+IngestData/.idea/dynamic.xml
+IngestData/.idea/uiDesigner.xml
+
+## File-based project format:
+IngestData/*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+IngestData/out/
+
+# mpeltonen/sbt-idea plugin
+IngestData/.idea_modules/
+
+# JIRA plugin
+IngestData/atlassian-ide-plugin.xml
+
+
+### Intellij Patch ###
+*.iml
