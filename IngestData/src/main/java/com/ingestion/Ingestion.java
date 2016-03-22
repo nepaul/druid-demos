@@ -31,7 +31,7 @@ public class Ingestion {
     private static final Logger log = new Logger(Ingestion.class);
 
     public static void main(String[] args) {
-        final String zkConn = "172.16.8.211:2181";
+        final String zkConn = "zkHost:2181";
         final String indexService = "druid:prod:overlord"; // Your overlord's druid.service
         final String discoveryPath = "/druid/prod/discovery"; // Your overlord's druid.discovery.curator.path
         final String dataSource = "wikipedia";
