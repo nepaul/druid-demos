@@ -5,7 +5,7 @@ Configulations for Druid-0.8.3.
 
 ## Learn How to use Druid-0.8.3 and DruidDemos
 
- * [BLOG](http://nepaul.github.io/2016/02/22/Druid-%E6%A5%B5%E9%80%9F%E9%AB%94%E9%A9%97/)
+ * [BLOG](https://nepaul.github.io/Druid-%E6%A5%B5%E9%80%9F%E9%AB%94%E9%A9%97.html)
  * [BLOG-ISSUE](https://github.com/nepaul/nepaul.github.io/issues/1)
 
 ## Author
